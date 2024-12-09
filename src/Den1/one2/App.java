@@ -15,9 +15,9 @@ public class App {
         Hello.helloPrint(s);
         System.out.println(one);
         System.out.println(two);
-    //    plusPrint();
-    //    plusMinusDes();
-    //    minimumInt();
+        plusPrint();
+        plusMinusDes();
+        minimumInt();
         chetNechet();
     }
 }
