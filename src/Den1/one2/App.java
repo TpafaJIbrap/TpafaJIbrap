@@ -12,13 +12,15 @@ public class App {
     static String a = "321";
     static Integer two = Integer.parseInt(a.substring(0,1)) + Integer.parseInt(a.substring(1,2)) + Integer.parseInt(a.substring(2,3));
     public static void main(String[] args) {
-        Hello.helloPrint(s);
-        System.out.println(one);
-        System.out.println(two);
-        plusPrint();
-        plusMinusDes();
-        minimumInt();
-        chetNechet();
+        //Hello.helloPrint(s);
+        //System.out.println(one);
+        //System.out.println(two);
+        //plusPrint();
+        //plusMinusDes();
+        //minimumInt();
+        //chetNechet();
+        //pricePhone();
+        //massSearch();
     }
 }
 
